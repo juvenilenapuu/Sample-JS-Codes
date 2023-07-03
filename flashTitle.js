@@ -1,3 +1,4 @@
+//This lines of code change the title of your webpage at a certain interval.
 let alertShow = false;
 
 setInterval(() => {
