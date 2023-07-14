@@ -1,3 +1,7 @@
+      //JavaScript Function
+      function functionName(){}
+      functionName()
+
 
       //if selection sample1
       var marks = 50;
