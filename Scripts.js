@@ -2,6 +2,14 @@
       function functionName(){}
       functionName()
 
+      //function that increments
+      let varName = 0
+      function incrementFunction() {
+      varName = varName + 1
+      }
+      incrementLap()
+      console.log(lapsCompleted)
+
 
       //if selection sample1
       var marks = 50;
